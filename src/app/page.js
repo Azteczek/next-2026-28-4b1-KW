@@ -3,7 +3,6 @@ import Dashboard from '@/components/Dashboard';
 import Badge from "@/components/Badge";
 import CounterWithLog from '@/components/CounterWithLog';
 
-
 export default function HomePage() {
   return (
     <main style={{ padding: '2rem' }}>
